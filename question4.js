@@ -1,4 +1,4 @@
-//Ryan POstma
+//Ryan Postma
 //CMP237
 //question 4
 
