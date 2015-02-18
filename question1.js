@@ -1,3 +1,6 @@
+//Ryan POstma
+//question 1 on exam
+//CMP237
 var x = 10;//create a variable and give it a value
 
 function edit(number) {//change the value of x
